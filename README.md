@@ -1,4 +1,4 @@
-# 📝 My Notes (Catatan Pribadi)
+# 📝 NotesFul (Catatan Pribadi)
 
 Aplikasi catatan sederhana berbasis web dengan fitur penyimpanan lokal (localStorage), color picker, dan edit catatan. Dibuat menggunakan HTML, CSS, dan JavaScript tanpa backend.
 
